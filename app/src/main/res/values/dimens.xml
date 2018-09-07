@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtTamanio">33dp</dimen>
+    <dimen name="txtBoton">20dp</dimen>
+    <dimen name="windth_horizontal">300dp</dimen>
+    <dimen name="layout_marginTo_Vertical">95dp</dimen>
+    <dimen name="layout_editor_absoluteY_Vertical">455dp</dimen>
+
+
+
+</resources>

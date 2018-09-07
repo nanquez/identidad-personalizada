@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Identidad Personalizada</string>
+    <string name="txtAplicacion">PRIMERA APP</string>
+    <string name="btnTexto">INGRESAR</string>
+</resources>
